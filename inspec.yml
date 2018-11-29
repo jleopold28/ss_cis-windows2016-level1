@@ -1,0 +1,11 @@
+name: ss_cis-windows2016-level1
+title: InSpec Profile
+maintainer: The Authors
+copyright: The Authors
+copyright_email: you@example.com
+license: Apache-2.0
+summary: An InSpec Compliance Profile
+version: 0.1.0
+depends:
+  - name: cis-windows2016
+    url: https://github.com/jleopold28/cis-windows2016rtm-release1607-level1-memberserver/raw/master/cis-windows2016rtm-release1607-level1-memberserver-1.0.0-10.tar.gz
